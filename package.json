@@ -1,0 +1,23 @@
+{
+  "name": "chatws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "file": "^0.2.2",
+    "fs": "^0.0.1-security",
+    "hbs": "^4.2.0",
+    "sistem": "^1.0.6",
+    "socket.io": "^4.7.2",
+    "socket.oi": "^0.0.1-security.8",
+    "sweetalert2": "^11.7.21"
+  }
+}
